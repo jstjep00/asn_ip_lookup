@@ -16,7 +16,7 @@ Example:
 	./asn_ip_lookup.sh AS1234 AS5678
 ```
 
-## To be added soon:
-	-Add getopt for command line options like input/output txt lists
-	-Add limitation to AS ranges that can be called (according to the RFC, even though their results by whois will be null)
-	-Add reverse IP to ASN lookup with whois origin
+### To be added soon:
+	- Add getopt for command line options like input/output txt lists
+	- Add limitation to AS ranges that can be called (according to the RFC, even though their results by whois will be null)
+	- Add reverse IP to ASN lookup with whois origin
