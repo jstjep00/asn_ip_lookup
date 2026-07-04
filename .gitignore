@@ -1,0 +1,13 @@
+# Operational scan data and text files
+*.txt
+data/
+
+# Output files
+*.out
+
+# Agent orchestration / GodMode internals
+AGENTS.md
+docs/
+reports/
+VERSION
+CHANGELOG.md
